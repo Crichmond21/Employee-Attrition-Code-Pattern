@@ -8,6 +8,6 @@ I wanted to use the same model that Auto AI used so I trained a logistic regress
 
 ### To Run
 To run this code
-* Clone this repository
-* pip install numpy pandas sklearn
-* Run the jupyter notebook with the CSV file in the same directory
+1. Clone this repository
+2. pip install numpy pandas sklearn
+3. Run the jupyter notebook with the CSV file in the same directory
