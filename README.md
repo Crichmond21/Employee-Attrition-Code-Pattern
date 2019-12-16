@@ -1,5 +1,5 @@
 # Employee-Attrition-Code-Pattern
-This is a prject for COMP - 3800 Impact of AI on Society at Wentworth Institute of technology, taught by Professor Armen Pischdotchian
+This is a project for COMP - 3800 Impact of AI on Society at Wentworth Institute of technology, taught by Professor Armen Pischdotchian
 
 In class we were assigned to use IBM's Auto AI tool to try to correctly classify the attrition of an employee based on several features such as salary, commute times, role, years with manager, etc. The ROC AUC score of the model trained with Auto AI seemed low at around 70% to me so I thought I would try and see if I could make a model that would perform better than IBM's Auto AI on this dataset before the end of the class.
 
